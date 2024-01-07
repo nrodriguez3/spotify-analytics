@@ -1,2 +1,2 @@
 # spotify-analytics
-Amazing insights and playlist from the music you love 
+Amazing insights and playlists from the music you love 
